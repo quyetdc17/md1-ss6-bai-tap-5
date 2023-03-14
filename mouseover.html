@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #header{
+            position: absolute;
+            left: 200px;
+            top: 150px;
+        }
+        #btnYes {
+            position: absolute;
+            left: 200px;
+            top: 250px;
+        }
+        #btnNo {
+            position: absolute;
+            left: 250px;
+            top: 250px;
+        }
+
+    </style>
+</head>
+<body>
+<h1 id="header">DO YOU LOVE ME?</h1>
+<button id="btnYes" type="button" value="Yes" onclick="love()">YES</button>
+<button id="btnNo" type="button" onmouseover="noLove()" value="No">NO</button>
+
+<script>
+    //let btnYes = document.getElementById('btnYes');
+    let btnNo = document.getElementById('btnNo');
+    let header = document.getElementById('header');
+
+    function love() {
+        header.innerHTML = 'I LOVE YOU';
+    }
+
+    function noLove() {
+        let height = Math.round(Math.random() * window.innerHeight);
+        let width = Math.round(Math.random() * window.innerWidth);
+        document.getElementById('btnNo').style.left = width + 'px';
+        btnNo.style.top = height + 'px';
+    }
+</script>
+</body>
+</html>

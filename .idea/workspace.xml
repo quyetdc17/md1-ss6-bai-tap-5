@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8f2d4b8-844a-45cc-9d82-1c3af84a0d89" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/WebstormProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitaplm1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lm2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lm2/.idea/lm2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lm2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lm2/luyentap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lm2/table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lm2/thuchanh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lm2_baitap1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lm2_thuchanh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lm2_thuchanh2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lm2_thuchanh3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lm2_thuchanh4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss5 bai tap 1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss5 bai tap2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss5 bai tap3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss5 test code/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss5 test code/.idea/md1 ss5 test code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss5 test code/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss5 test code/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss5 test code/javascript/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss5 thuc hanh 2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss5 thuc hanh 3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss5 thuc hanh toan tu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss5 thuc hanh1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss6 bai tap 1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss6 bai tap 3/calculator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mouseover.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss6 bai tap2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss6 bai tap2/.idea/md1 ss6 bai tap2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss6 bai tap2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss6 bai tap2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss6 bai tap4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss6 bai tap4/.idea/md1 ss6 bai tap4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss6 bai tap4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss6 bai tap4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss6 test code/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss6 test code/.idea/md1 ss6 test code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss6 test code/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss6 test code/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss6 test code/switch_case.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss6 thuc hanh 1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss6 thuc hanh 2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss6 thuc hanh 3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss6 thuc hanh 4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss6 thuc hanh 5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss6 thuc hanh 6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss6 thuc hanh 7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss6 thuc hanh1/.idea/md1 ss6 thuc hanh1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss6 thuc hanh1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss6 thuc hanh1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1 ss6 thuc hanh1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md1-ss5-thuchanh-khaibaosudungbienjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md2 baitap 2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md2_baitap3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md2_baitap4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md3_readcode/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md3_readcode/.idea/md3_readcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md3_readcode/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md3_readcode/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md3_thuchanh1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md3_thuchanh2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md4 bai tap1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md4 bai tap3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md4 bai tap4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md4 bai tap4/.idea/md4 bai tap4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md4 bai tap4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md4 bai tap4/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md4 bai tap4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md4 test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md4 test/.idea/md4 test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md4 test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md4 test/align-item/align-items.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md4 test/align-item/flex_grow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md4 test/align-self.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md4 test/flex.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md4 test/flex_basic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md4 test/flex_shrink.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md4 test/grid/grid-template-areas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md4 test/grid/grid_line.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md4 test/grid/grid_template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md4 test/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md4 test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md4 test/order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md4 test/reponsive/@media.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md4 thuc hanh 2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md4_thuchanh1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../md4bai tap2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini project2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quyetdc_cv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2N0XfJNRf3RIljemReYEWOilwqp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/user/WebstormProjects/md1 ss6 bai tap 5",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8f2d4b8-844a-45cc-9d82-1c3af84a0d89" name="Changes" comment="" />
+      <created>1678802074448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678802074448</updated>
+      <workItem from="1678802075501" duration="100000" />
+      <workItem from="1678803562135" duration="595000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
